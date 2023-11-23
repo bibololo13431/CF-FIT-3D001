@@ -23,10 +23,36 @@ terminal
 gõ
 git init
 git add .
+
 git commit -m "First Commit"
+git config --global user.email "tên email"
+git config --global user.name "tên bất kì"
 git branch -M main
 git remote add origin http://github.com/tên/response
 git push-u
 
 git config --global user.email"nguyenngocthien7742@gmail.com"
+
+
+
+code https gõ thư mục nào thì vô thư mục đó ở cmd gõ git clone paste đường dẫn vô
+
+composer install
+sau khi down về thì tìm file .env.example chuyển thành .env mở file ENV APP_KEY= tạo 1 key
+tạo key
+php artisan key:generate
+-->
+
+
+<!--
+LARAVEL
+định nghĩa routes vô thư mục ROUTES/web.php
+
+
+động dự liệu parameter dynamic {id}
+
+php artisan route:list -> để biết các đường dẫn get hay post
+
+laravel snipset
+intelsnse
 -->
